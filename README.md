@@ -59,25 +59,3 @@ http://localhost:8000
 
 Bhargavi Simhadri
 Frontend Developer | MERN Stack Developer
-
----
-
-# ✅ Simple GitHub About Section (Right Side Box)
-
-Use this:
-
-```
-🌿 Medicinal Plant Scanner | React PWA | Installable Web App | Traditional Health Knowledge
-```
-
----
-
-If you want, I can also create:
-
-* 🔥 Attractive GitHub README with badges
-* 📸 Add images preview section
-* 🌍 SEO friendly description
-* 💼 Resume-ready project description
-* 🔗 Portfolio description version
-
-Tell me which one you need 🚀
